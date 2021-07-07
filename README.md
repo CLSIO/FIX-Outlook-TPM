@@ -1,4 +1,4 @@
-# FIX-Outlook-TPM
+# FIX-Outlook-TPM-Error
 Fixes Errors with TPM and Outlook / Azure. When moving-imaging
 
 Use this powershell command as administrator if you have the following errors
